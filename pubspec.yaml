@@ -1,0 +1,6 @@
+name: pm_tugas_02
+description: Tugas Rutin 2 - Aplikasi Kasir Sederhana
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
